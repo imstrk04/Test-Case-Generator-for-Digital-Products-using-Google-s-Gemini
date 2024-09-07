@@ -1,16 +1,16 @@
 """
-This module provides functionality for generating detailed testing instructions for images uploaded 
-by the user. It is part of a Streamlit application designed to facilitate manual test case generation
-for image-based functionalities using a generative AI model.
+This module is all about making it easier to create detailed test cases for
+images you upload. It’s part of a user-friendly Streamlit app designed to help you generate 
+test cases for various image-based functionalities using advanced AI.
 
-The application allows users to upload images and provide optional input prompts. 
-It then generates step-by-step test case instructions based on the provided images and prompts.
-The generated instructions include detailed descriptions, pre-conditions, testing steps, and expected
-results.
+With this app, you can upload your images and even add some extra context if you want. 
+The AI then takes this information and produces step-by-step test case instructions tailored 
+to your needs. These instructions come complete with descriptions, what needs to be set up 
+before testing, detailed testing steps, and what you should expect as a result.
 
-The code utilizes Google’s Gemini API for generating content and follows good coding practices.
-It includes a user interface built with Streamlit to upload images, enter additional context, and 
-view the generated instructions. 
+We’re using Google’s Gemini API to power the content generation, ensuring high-quality and 
+useful test cases. The app provides a straightforward interface where you can easily upload 
+your images, enter additional context, and see the generated instructions all in one place.
 
 Created on Sat Sept 7 2024
 
