@@ -55,7 +55,7 @@ Welcome to the Test Case Generator for Digital Products! This handy Streamlit ap
 
 Start the Streamlit app by running:
 
-```bash
+bash
 streamlit run testcase-generator.py
 
 
@@ -97,6 +97,6 @@ Email: [nstsrka04@gmail.com](mailto:nstsrka04@gmail.com)
 - [Streamlit](https://streamlit.io/) for providing a powerful tool for building interactive web applications.
 - [Google Gemini](https://cloud.google.com/generative-ai) for the generative AI capabilities.
 
-```
+
 
 Feel free to customize any sections to better fit your project’s specific details or requirements
